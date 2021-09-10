@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TicketToRideScoreApp/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/TicketToRideScoreApp/static/js/main.135716fb.chunk.js",
-    "main.js.map": "/TicketToRideScoreApp/static/js/main.135716fb.chunk.js.map",
+    "main.js": "/TicketToRideScoreApp/static/js/main.91585d23.chunk.js",
+    "main.js.map": "/TicketToRideScoreApp/static/js/main.91585d23.chunk.js.map",
     "runtime-main.js": "/TicketToRideScoreApp/static/js/runtime-main.bfaa4109.js",
     "runtime-main.js.map": "/TicketToRideScoreApp/static/js/runtime-main.bfaa4109.js.map",
     "static/css/2.4b3a975b.chunk.css": "/TicketToRideScoreApp/static/css/2.4b3a975b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4b3a975b.chunk.css",
     "static/js/2.0abcf616.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.135716fb.chunk.js"
+    "static/js/main.91585d23.chunk.js"
   ]
 }

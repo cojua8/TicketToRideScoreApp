@@ -13,9 +13,9 @@ const RouteScoreButton = (props) => {
     const handleChange = (e) => {
         let newValue = parseInt(e.target.value)
         if (isNaN(newValue)) {
-            props.handleRouteChange(props.length, 0)
+            props.handleRouteChange(props.routeScore, 0)
         } else {
-            props.handleRouteChange(props.length, parseInt(e.target.value))
+            props.handleRouteChange(props.routeScore, newValue)
         }
     }
 

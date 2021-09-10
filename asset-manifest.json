@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TicketToRideScoreApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/TicketToRideScoreApp/static/js/main.135716fb.chunk.js",
+    "main.js.map": "/TicketToRideScoreApp/static/js/main.135716fb.chunk.js.map",
+    "runtime-main.js": "/TicketToRideScoreApp/static/js/runtime-main.bfaa4109.js",
+    "runtime-main.js.map": "/TicketToRideScoreApp/static/js/runtime-main.bfaa4109.js.map",
+    "static/css/2.4b3a975b.chunk.css": "/TicketToRideScoreApp/static/css/2.4b3a975b.chunk.css",
+    "static/js/2.0abcf616.chunk.js": "/TicketToRideScoreApp/static/js/2.0abcf616.chunk.js",
+    "static/js/2.0abcf616.chunk.js.map": "/TicketToRideScoreApp/static/js/2.0abcf616.chunk.js.map",
+    "static/js/3.18b97485.chunk.js": "/TicketToRideScoreApp/static/js/3.18b97485.chunk.js",
+    "static/js/3.18b97485.chunk.js.map": "/TicketToRideScoreApp/static/js/3.18b97485.chunk.js.map",
+    "index.html": "/TicketToRideScoreApp/index.html",
+    "static/css/2.4b3a975b.chunk.css.map": "/TicketToRideScoreApp/static/css/2.4b3a975b.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/TicketToRideScoreApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0abcf616.chunk.js.LICENSE.txt": "/TicketToRideScoreApp/static/js/2.0abcf616.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/TicketToRideScoreApp/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfaa4109.js",
+    "static/css/2.4b3a975b.chunk.css",
+    "static/js/2.0abcf616.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.135716fb.chunk.js"
+  ]
+}

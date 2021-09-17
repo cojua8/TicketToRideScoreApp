@@ -1,0 +1,95 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "title",
+    "description": "description",
+    "definitions": {
+        "europe_city": {
+            "type": "string",
+            "enum": [
+                "Amsterdam",
+                "Angora",
+                "Athína",
+                "Barcelona",
+                "Berlin",
+                "Brest",
+                "Brindisi",
+                "Bruxelles",
+                "Bucuresti",
+                "Budapest",
+                "Constantinople",
+                "Cádiz",
+                "Danzig",
+                "Dieppe",
+                "Edinburgh",
+                "Erzurum",
+                "Essen",
+                "Frankfurt",
+                "Kharkov",
+                "Kyïv",
+                "København",
+                "Lisboa",
+                "London",
+                "Madrid",
+                "Marseille",
+                "Moskva",
+                "München",
+                "Palermo",
+                "Pamplona",
+                "Paris",
+                "Petrograd",
+                "Riga",
+                "Roma",
+                "Rostov",
+                "Sarajevo",
+                "Sevastopol",
+                "Smolensk",
+                "Smyrna",
+                "Sochi",
+                "Sofia",
+                "Stockholm",
+                "Venezia",
+                "Warszawa",
+                "Wien",
+                "Wilno",
+                "Zágrab",
+                "Zürich"
+            ]
+        }
+    },
+    "type": "object",
+    "required":["routes"],
+    "properties": {
+        "routes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "first_destination",
+                    "second_destination",
+                    "score"
+                ],
+                "properties": {
+                    "first_destination": {
+                        "$ref": "#/definitions/europe_city",
+                        "description": "The first destination of the ticket card"
+                    },
+                    "second_destination": {
+                        "$ref": "#/definitions/europe_city",
+                        "description": "The second destination of the ticket card"
+                    },
+                    "score": {
+                        "description": "The score of the ticket card",
+                        "type": "integer"
+                    }
+                },
+                "defaultSnippets": [
+                    {
+                        "label": "New route",
+                        "description": "Contains two cities and a score",
+                        "body": { "first_destination": "^$1", "second_destination": "^$2", "score": "^$3"}
+                    }
+                ]
+            }
+        }
+    }
+}

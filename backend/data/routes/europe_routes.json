@@ -1,0 +1,235 @@
+{
+    "$schema": "../schemas/route_schema.json",
+    "routes": [
+        {
+            "first_destination": "Palermo",
+            "second_destination": "Constantinople",
+            "score": 8
+        },
+        {
+            "first_destination": "Roma",
+            "second_destination": "Smyrna",
+            "score": 10
+        },
+        {
+            "first_destination": "Angora",
+            "second_destination": "Kharkov",
+            "score": 10
+        },
+        {
+            "first_destination": "London",
+            "second_destination": "Wien",
+            "score": 10
+        },
+        {
+            "first_destination": "Paris",
+            "second_destination": "Zágrab",
+            "score": 7
+        },
+        {
+            "first_destination": "Rostov",
+            "second_destination": "Erzurum",
+            "score": 5
+        },
+        {
+            "first_destination": "Berlin",
+            "second_destination": "Moskva",
+            "score": 12
+        },
+        {
+            "first_destination": "Berlin",
+            "second_destination": "Roma",
+            "score": 9
+        },
+        {
+            "first_destination": "Berlin",
+            "second_destination": "Bucuresti",
+            "score": 8
+        },
+        {
+            "first_destination": "Smolensk",
+            "second_destination": "Rostov",
+            "score": 8
+        },
+        {
+            "first_destination": "Budapest",
+            "second_destination": "Sofia",
+            "score": 5
+        },
+        {
+            "first_destination": "Essen",
+            "second_destination": "Kyïv",
+            "score": 10
+        },
+        {
+            "first_destination": "Stockholm",
+            "second_destination": "Wien",
+            "score": 11
+        },
+        {
+            "first_destination": "Paris",
+            "second_destination": "Wien",
+            "score": 8
+        },
+        {
+            "first_destination": "Venezia",
+            "second_destination": "Constantinople",
+            "score": 10
+        },
+        {
+            "first_destination": "Kyïv",
+            "second_destination": "Sochi",
+            "score": 8
+        },
+        {
+            "first_destination": "Madrid",
+            "second_destination": "Dieppe",
+            "score": 8
+        },
+        {
+            "first_destination": "Barcelona",
+            "second_destination": "München",
+            "score": 8
+        },
+        {
+            "first_destination": "Madrid",
+            "second_destination": "Zürich",
+            "score": 8
+        },
+        {
+            "first_destination": "Frankfurt",
+            "second_destination": "Smolensk",
+            "score": 13
+        },
+        {
+            "first_destination": "Amsterdam",
+            "second_destination": "Pamplona",
+            "score": 7
+        },
+        {
+            "first_destination": "London",
+            "second_destination": "Berlin",
+            "score": 7
+        },
+        {
+            "first_destination": "Bruxelles",
+            "second_destination": "Danzig",
+            "score": 9
+        },
+        {
+            "first_destination": "Brest",
+            "second_destination": "Marseille",
+            "score": 7
+        },
+        {
+            "first_destination": "Zürich",
+            "second_destination": "Budapest",
+            "score": 6
+        },
+        {
+            "first_destination": "Warszawa",
+            "second_destination": "Smolensk",
+            "score": 6
+        },
+        {
+            "first_destination": "Zágrab",
+            "second_destination": "Brindisi",
+            "score": 6
+        },
+        {
+            "first_destination": "Brest",
+            "second_destination": "Venezia",
+            "score": 8
+        },
+        {
+            "first_destination": "Palermo",
+            "second_destination": "Moskva",
+            "score": 20
+        },
+        {
+            "first_destination": "Lisboa",
+            "second_destination": "Danzig",
+            "score": 20
+        },
+        {
+            "first_destination": "Cádiz",
+            "second_destination": "Stockholm",
+            "score": 21
+        },
+        {
+            "first_destination": "Edinburgh",
+            "second_destination": "Athína",
+            "score": 21
+        },
+        {
+            "first_destination": "Brest",
+            "second_destination": "Petrograd",
+            "score": 20
+        },
+        {
+            "first_destination": "København",
+            "second_destination": "Erzurum",
+            "score": 21
+        },
+        {
+            "first_destination": "Sarajevo",
+            "second_destination": "Sevastopol",
+            "score": 8
+        },
+        {
+            "first_destination": "Edinburgh",
+            "second_destination": "Paris",
+            "score": 7
+        },
+        {
+            "first_destination": "Barcelona",
+            "second_destination": "Bruxelles",
+            "score": 8
+        },
+        {
+            "first_destination": "Marseille",
+            "second_destination": "Essen",
+            "score": 8
+        },
+        {
+            "first_destination": "Sofia",
+            "second_destination": "Smyrna",
+            "score": 5
+        },
+        {
+            "first_destination": "Kyïv",
+            "second_destination": "Petrograd",
+            "score": 6
+        },
+        {
+            "first_destination": "Athína",
+            "second_destination": "Angora",
+            "score": 5
+        },
+        {
+            "first_destination": "Athína",
+            "second_destination": "Wilno",
+            "score": 11
+        },
+        {
+            "first_destination": "Riga",
+            "second_destination": "Bucuresti",
+            "score": 10
+        },
+        {
+            "first_destination": "Zürich",
+            "second_destination": "Brindisi",
+            "score": 6
+        },
+        {
+            "first_destination": "Amsterdam",
+            "second_destination": "Wilno",
+            "score": 12
+        },
+        {
+            "first_destination": "Frankfurt",
+            "second_destination": "København",
+            "score": 5
+        }
+    ]
+}

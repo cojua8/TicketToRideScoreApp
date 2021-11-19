@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import RouteScoreButton from '../RouteScoreButton/RouteScoreButton'
+import RouteScoreButton from "./RouteScoreButton/RouteScoreButton";
 
 const RouteScore = () => {
     const [routes, setRoutes] = useState([

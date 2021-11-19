@@ -1,5 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import RouteScore from './Components/RouteScore/RouteScore';
+import 'bootstrap-icons/font/bootstrap-icons.css'
+import TicketScore from './Components/TicketScore/TicketScore';
+// import RouteScore from './Components/RouteScore/RouteScore';
 
 function App() {
   return (
@@ -9,7 +11,7 @@ function App() {
         src={process.env.PUBLIC_URL + "/images/background.jpg"}/>
 
       <div className="container">
-        <RouteScore/>
+        <TicketScore/>
       </div>
 
     </div>
